@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-stateful-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-stateful-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-stateless-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-stateless-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-web" charset="UTF-8" />
+  </component>
+</project>
